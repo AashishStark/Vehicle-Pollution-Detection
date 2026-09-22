@@ -69,6 +69,7 @@ This is effectively **self-training / pseudo-labeling with an ensemble confidenc
 
 Public dataset reference used for comparison in the paper: [VehicleSmokeDataset (GitHub)](https://github.com/srimantacse/VehicleSmokeDataset)
 
+## Trained Models Link: https://drive.google.com/drive/folders/1-pQS3M1KJHHVAGHBNI2lxuCZ3J0NSuQ2?usp=sharing
 ## Results
 
 - **Proposed custom model: >90% accuracy** after 5 epochs, consistently the best of all 8 models on both accuracy and F1 score.
